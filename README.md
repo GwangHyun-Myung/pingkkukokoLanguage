@@ -1,10 +1,3 @@
----
-date: 2026-05-04
-type: index
-scope: data
-related: [[01-license-audit]], [[02-license-compatibility]], [[03-distribution-structure]], [[04-code-rights-protection]], [[05-proprietary-license]]
----
-
 # datas/ — 콘텐츠 데이터 및 라이선스 문서 인덱스
 
 ## 1. 개요
