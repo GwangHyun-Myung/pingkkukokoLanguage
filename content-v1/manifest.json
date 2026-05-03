@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/GwangHyun-Myung/pingkkukokoLanguage/main/content-v1/",
   "generatedAt": "2026-05-03T14:39:02.368Z",
   "totalChunks": 41,
   "totalUncompressedBytes": 763729449,
