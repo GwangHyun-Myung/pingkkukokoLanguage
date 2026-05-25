@@ -1,251 +1,11 @@
 {
   "version": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GwangHyun-Myung/pingkkukokoLanguage/mbase/content-v1/",
-  "generatedAt": "2026-05-03T14:39:02.368Z",
-  "totalChunks": 41,
-  "totalUncompressedBytes": 763729449,
-  "totalCompressedBytes": 146751400,
+  "generatedAt": "2026-05-25T13:33:27.881Z",
+  "totalChunks": 45,
+  "totalUncompressedBytes": 1208202632,
+  "totalCompressedBytes": 240558102,
   "chunks": [
-    {
-      "id": "words/en-tier1-001",
-      "path": "words/en-tier1-001.jsonl.gz",
-      "language": "en",
-      "kind": "words",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 53432,
-      "uncompressedBytes": 16511082,
-      "compressedBytes": 2430849,
-      "sha256": "e997e93858172c817ae08c52e43c0ee38452d27c386562749281e28ffbf8a004"
-    },
-    {
-      "id": "words/en-tier2-001",
-      "path": "words/en-tier2-001.jsonl.gz",
-      "language": "en",
-      "kind": "words",
-      "tier": 2,
-      "difficulty": [
-        3,
-        3
-      ],
-      "recordCount": 37770,
-      "uncompressedBytes": 11834847,
-      "compressedBytes": 1803640,
-      "sha256": "3f6581d96c0618a2e5ccc3fcf810c8845fe73754876e3459ba9c0247a84449a5"
-    },
-    {
-      "id": "words/en-tier3-001",
-      "path": "words/en-tier3-001.jsonl.gz",
-      "language": "en",
-      "kind": "words",
-      "tier": 3,
-      "difficulty": [
-        4,
-        5
-      ],
-      "recordCount": 144368,
-      "uncompressedBytes": 41943010,
-      "compressedBytes": 4409883,
-      "sha256": "158d5c2ea9e1e0a63a59e25f555a25e97af824d6cd6586245f9e9c2c047a6028"
-    },
-    {
-      "id": "words/en-tier3-002",
-      "path": "words/en-tier3-002.jsonl.gz",
-      "language": "en",
-      "kind": "words",
-      "tier": 3,
-      "difficulty": [
-        4,
-        5
-      ],
-      "recordCount": 146714,
-      "uncompressedBytes": 41942973,
-      "compressedBytes": 5119093,
-      "sha256": "0594cfaf328f8c2e1e284af8a8ba9c0c774bfb8d8ef4fcbe2416bf1359c29dac"
-    },
-    {
-      "id": "words/en-tier3-003",
-      "path": "words/en-tier3-003.jsonl.gz",
-      "language": "en",
-      "kind": "words",
-      "tier": 3,
-      "difficulty": [
-        4,
-        5
-      ],
-      "recordCount": 146982,
-      "uncompressedBytes": 41942900,
-      "compressedBytes": 5130872,
-      "sha256": "62dd88161bd26e4c65f594a40de1997423b00493fa3e384e9cfe201e7b2a1893"
-    },
-    {
-      "id": "words/en-tier3-004",
-      "path": "words/en-tier3-004.jsonl.gz",
-      "language": "en",
-      "kind": "words",
-      "tier": 3,
-      "difficulty": [
-        4,
-        5
-      ],
-      "recordCount": 123965,
-      "uncompressedBytes": 35798745,
-      "compressedBytes": 4572757,
-      "sha256": "ab8a416028dc464174b9237a4a3d26cdf4caebaa7736543e94bfca9f7bb4f2ae"
-    },
-    {
-      "id": "words/zh-tier1-001",
-      "path": "words/zh-tier1-001.jsonl.gz",
-      "language": "zh",
-      "kind": "words",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 96609,
-      "uncompressedBytes": 25654442,
-      "compressedBytes": 3269738,
-      "sha256": "bdcc690799f433f59d7768c47ffad6e2e5119c2e03995845f637830637a7d732"
-    },
-    {
-      "id": "words/zh-tier2-001",
-      "path": "words/zh-tier2-001.jsonl.gz",
-      "language": "zh",
-      "kind": "words",
-      "tier": 2,
-      "difficulty": [
-        3,
-        3
-      ],
-      "recordCount": 6003,
-      "uncompressedBytes": 1621052,
-      "compressedBytes": 235445,
-      "sha256": "7350e57e52b509bbc444b26de74a073544e37f851bec53781df6bb8170a14bfa"
-    },
-    {
-      "id": "words/zh-tier3-001",
-      "path": "words/zh-tier3-001.jsonl.gz",
-      "language": "zh",
-      "kind": "words",
-      "tier": 3,
-      "difficulty": [
-        4,
-        5
-      ],
-      "recordCount": 16761,
-      "uncompressedBytes": 4205582,
-      "compressedBytes": 497945,
-      "sha256": "8cdbb17683ccdd1eded2f1126cf2790d31e01ca963d01ee794770095b0b105c4"
-    },
-    {
-      "id": "words/es-tier1-001",
-      "path": "words/es-tier1-001.jsonl.gz",
-      "language": "es",
-      "kind": "words",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 3938,
-      "uncompressedBytes": 1116272,
-      "compressedBytes": 121189,
-      "sha256": "66e689db5f197af59423aea2b01b86b6722b2cf95e1c7299589df55a58bde9c7"
-    },
-    {
-      "id": "words/es-tier2-001",
-      "path": "words/es-tier2-001.jsonl.gz",
-      "language": "es",
-      "kind": "words",
-      "tier": 2,
-      "difficulty": [
-        3,
-        3
-      ],
-      "recordCount": 3481,
-      "uncompressedBytes": 991139,
-      "compressedBytes": 105270,
-      "sha256": "232ac3d1eee11f894b4792319e04400833785eba7777c0beb55156c12d6d193a"
-    },
-    {
-      "id": "words/es-tier3-001",
-      "path": "words/es-tier3-001.jsonl.gz",
-      "language": "es",
-      "kind": "words",
-      "tier": 3,
-      "difficulty": [
-        4,
-        5
-      ],
-      "recordCount": 65062,
-      "uncompressedBytes": 17531756,
-      "compressedBytes": 1507092,
-      "sha256": "ebfbb16a082ae8ce792342c91901284fd0d07eb53d2c24928de0b810a04d5a54"
-    },
-    {
-      "id": "words/ja-tier1-001",
-      "path": "words/ja-tier1-001.jsonl.gz",
-      "language": "ja",
-      "kind": "words",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 162466,
-      "uncompressedBytes": 41943020,
-      "compressedBytes": 4917742,
-      "sha256": "f48e0f2e1f5639e989a0200501c36b26ac281c22733a226e76496ea4626e40be"
-    },
-    {
-      "id": "words/ja-tier1-002",
-      "path": "words/ja-tier1-002.jsonl.gz",
-      "language": "ja",
-      "kind": "words",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 40831,
-      "uncompressedBytes": 10967616,
-      "compressedBytes": 1487429,
-      "sha256": "7795bb627d373432f92e915f84947311403df50ed3f0ca202c71c891b1dfcf34"
-    },
-    {
-      "id": "words/ja-tier2-001",
-      "path": "words/ja-tier2-001.jsonl.gz",
-      "language": "ja",
-      "kind": "words",
-      "tier": 2,
-      "difficulty": [
-        3,
-        3
-      ],
-      "recordCount": 1477,
-      "uncompressedBytes": 395031,
-      "compressedBytes": 62406,
-      "sha256": "e3c7ad40c96ff9ac554c4a9c0a7d041ccc0af4615e7679473d87479d7bb2f720"
-    },
-    {
-      "id": "words/ja-tier3-001",
-      "path": "words/ja-tier3-001.jsonl.gz",
-      "language": "ja",
-      "kind": "words",
-      "tier": 3,
-      "difficulty": [
-        4,
-        5
-      ],
-      "recordCount": 3840,
-      "uncompressedBytes": 978143,
-      "compressedBytes": 134859,
-      "sha256": "aece90fdb41b70111dd8f643e86b598777779dadd93c07eed898a459a8f2b014"
-    },
     {
       "id": "words/ko-tier1-001",
       "path": "words/ko-tier1-001.jsonl.gz",
@@ -256,10 +16,10 @@
         1,
         2
       ],
-      "recordCount": 1208,
-      "uncompressedBytes": 331100,
-      "compressedBytes": 41423,
-      "sha256": "42ecabf56b264f449b258505aef34063982f2fb938fefcaaa3cd09ad19ad895b"
+      "recordCount": 102287,
+      "uncompressedBytes": 26903152,
+      "compressedBytes": 1991238,
+      "sha256": "7e9b19ca5090e2f958cf1727603c01045128fa14d2e512571900d6b4b555e9d1"
     },
     {
       "id": "words/ko-tier2-001",
@@ -271,10 +31,10 @@
         3,
         3
       ],
-      "recordCount": 1001,
-      "uncompressedBytes": 270057,
-      "compressedBytes": 33600,
-      "sha256": "0b73a341acc435271d2406b429dcde098b7f0b2d7980d6983bfd6b08ebf2173a"
+      "recordCount": 111275,
+      "uncompressedBytes": 30223678,
+      "compressedBytes": 2442116,
+      "sha256": "5c23abfbff37819113a36c88dce2677b30e8114a244cf4bbff7f85294aa97b20"
     },
     {
       "id": "words/ko-tier3-001",
@@ -286,265 +46,280 @@
         4,
         5
       ],
-      "recordCount": 45401,
-      "uncompressedBytes": 12497697,
-      "compressedBytes": 1397452,
-      "sha256": "6b2f242cd1f4b2fa63006d2a17d350a8ed20230eb759b2219f27aa79e7e10fe5"
+      "recordCount": 146277,
+      "uncompressedBytes": 41942860,
+      "compressedBytes": 4150600,
+      "sha256": "713ef0bab644b747044fac23c8886b86123e5ddf650650c937c58a1983742521"
     },
     {
-      "id": "sentences/en-tier1-001",
-      "path": "sentences/en-tier1-001.jsonl.gz",
-      "language": "en",
-      "kind": "sentences",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 96437,
-      "uncompressedBytes": 41942424,
-      "compressedBytes": 10538912,
-      "sha256": "610a0fe4cfd8b56a36d3789c5df40a2aee8671a190fdc294ef62cbd9c8004a16"
-    },
-    {
-      "id": "sentences/en-tier1-002",
-      "path": "sentences/en-tier1-002.jsonl.gz",
-      "language": "en",
-      "kind": "sentences",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 84249,
-      "uncompressedBytes": 33384699,
-      "compressedBytes": 7478808,
-      "sha256": "9d82b759a7a83eb6de39ed696b4b6f00ca344adb8743960ed27e7d113ac4d288"
-    },
-    {
-      "id": "sentences/en-tier1-003",
-      "path": "sentences/en-tier1-003.jsonl.gz",
-      "language": "en",
-      "kind": "sentences",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 102425,
-      "uncompressedBytes": 32548328,
-      "compressedBytes": 4480001,
-      "sha256": "bf795d483297ba5b2c9499ea688bde1f3bcbd7f966a5b6d93c79064b1a202ecb"
-    },
-    {
-      "id": "sentences/en-tier2-001",
-      "path": "sentences/en-tier2-001.jsonl.gz",
-      "language": "en",
-      "kind": "sentences",
-      "tier": 2,
-      "difficulty": [
-        3,
-        3
-      ],
-      "recordCount": 90095,
-      "uncompressedBytes": 41942703,
-      "compressedBytes": 11893174,
-      "sha256": "7a42a6ecef1645228b5d006cce240298aced937d2a5712c4b5c5b48c8f5d6a00"
-    },
-    {
-      "id": "sentences/en-tier2-002",
-      "path": "sentences/en-tier2-002.jsonl.gz",
-      "language": "en",
-      "kind": "sentences",
-      "tier": 2,
-      "difficulty": [
-        3,
-        3
-      ],
-      "recordCount": 56631,
-      "uncompressedBytes": 20730322,
-      "compressedBytes": 4506446,
-      "sha256": "af1be007e053ede0ce0ca2e93ac57f6635ac1d5ca315cb7fffd49d278268997e"
-    },
-    {
-      "id": "sentences/en-tier3-001",
-      "path": "sentences/en-tier3-001.jsonl.gz",
-      "language": "en",
-      "kind": "sentences",
+      "id": "words/ko-tier3-002",
+      "path": "words/ko-tier3-002.jsonl.gz",
+      "language": "ko",
+      "kind": "words",
       "tier": 3,
       "difficulty": [
         4,
         5
       ],
-      "recordCount": 45097,
-      "uncompressedBytes": 17468998,
-      "compressedBytes": 4225955,
-      "sha256": "4de75890234b103474938a800f2d3d6346768892880d8274d235a96a94aeb360"
+      "recordCount": 11805,
+      "uncompressedBytes": 3365140,
+      "compressedBytes": 322452,
+      "sha256": "488b793a07dfb8ba3c99ad746f1a4850571a4b2bab737b7c0f17fa23c399d6d1"
     },
     {
-      "id": "sentences/zh-tier1-001",
-      "path": "sentences/zh-tier1-001.jsonl.gz",
-      "language": "zh",
-      "kind": "sentences",
+      "id": "words/en-tier1-001",
+      "path": "words/en-tier1-001.jsonl.gz",
+      "language": "en",
+      "kind": "words",
       "tier": 1,
       "difficulty": [
         1,
         2
       ],
-      "recordCount": 56053,
-      "uncompressedBytes": 22409226,
-      "compressedBytes": 5847179,
-      "sha256": "257200061c36a63e7f6080e8a4980398f754dac4834257ab2e10b5f9f7c15bae"
+      "recordCount": 83315,
+      "uncompressedBytes": 26755566,
+      "compressedBytes": 3670890,
+      "sha256": "162f84c68207d538133e6640041043da42e750adeabfa07bcb3f9f48c9177b03"
     },
     {
-      "id": "sentences/zh-tier2-001",
-      "path": "sentences/zh-tier2-001.jsonl.gz",
-      "language": "zh",
-      "kind": "sentences",
+      "id": "words/en-tier2-001",
+      "path": "words/en-tier2-001.jsonl.gz",
+      "language": "en",
+      "kind": "words",
       "tier": 2,
       "difficulty": [
         3,
         3
       ],
-      "recordCount": 471,
-      "uncompressedBytes": 146080,
-      "compressedBytes": 30273,
-      "sha256": "b8ed8b9515fb8d1260389d66085e8bc3c982f796e516afb9d79a90479ccbd84d"
+      "recordCount": 76590,
+      "uncompressedBytes": 24022587,
+      "compressedBytes": 3114813,
+      "sha256": "e2614062eb5f2370b444ed2c711dac7d034b722458e791b2ca6df1e1779a9ebf"
     },
     {
-      "id": "sentences/zh-tier3-001",
-      "path": "sentences/zh-tier3-001.jsonl.gz",
-      "language": "zh",
-      "kind": "sentences",
+      "id": "words/en-tier3-001",
+      "path": "words/en-tier3-001.jsonl.gz",
+      "language": "en",
+      "kind": "words",
       "tier": 3,
       "difficulty": [
         4,
         5
       ],
-      "recordCount": 38,
-      "uncompressedBytes": 10396,
-      "compressedBytes": 2020,
-      "sha256": "31cae7902753d4605babcdc3f4d10ba623214d93f87cf46633d60ee79d1801e5"
+      "recordCount": 125804,
+      "uncompressedBytes": 41942925,
+      "compressedBytes": 5256828,
+      "sha256": "4e4baf091f3bb6ab6ffcf89962327e60f6e1af21b092f9e72452871b20a6953e"
     },
     {
-      "id": "sentences/es-tier1-001",
-      "path": "sentences/es-tier1-001.jsonl.gz",
+      "id": "words/en-tier3-002",
+      "path": "words/en-tier3-002.jsonl.gz",
+      "language": "en",
+      "kind": "words",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 126257,
+      "uncompressedBytes": 41942747,
+      "compressedBytes": 6282101,
+      "sha256": "6e763cef80b49eaa9e5342e002b85d9c76be8cebb70543ed6e2d9800015e91ea"
+    },
+    {
+      "id": "words/en-tier3-003",
+      "path": "words/en-tier3-003.jsonl.gz",
+      "language": "en",
+      "kind": "words",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 127795,
+      "uncompressedBytes": 41942838,
+      "compressedBytes": 6226723,
+      "sha256": "bf506c7fad8ffc292095fb2217a8ae700b6389582807adcead6b7179bf53a4d0"
+    },
+    {
+      "id": "words/en-tier3-004",
+      "path": "words/en-tier3-004.jsonl.gz",
+      "language": "en",
+      "kind": "words",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 127558,
+      "uncompressedBytes": 41942863,
+      "compressedBytes": 6235895,
+      "sha256": "50f67591771456058c6f2e249c643b34c50de1af5a750db872c16d6ff3a6124d"
+    },
+    {
+      "id": "words/en-tier3-005",
+      "path": "words/en-tier3-005.jsonl.gz",
+      "language": "en",
+      "kind": "words",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 117119,
+      "uncompressedBytes": 35834688,
+      "compressedBytes": 4342482,
+      "sha256": "bfa4a5f9ab4cb340ce099ffbf714aec28d832e80e2f95c6a4a79648225277bb8"
+    },
+    {
+      "id": "words/es-tier1-001",
+      "path": "words/es-tier1-001.jsonl.gz",
       "language": "es",
-      "kind": "sentences",
+      "kind": "words",
       "tier": 1,
       "difficulty": [
         1,
         2
       ],
-      "recordCount": 52457,
-      "uncompressedBytes": 21275656,
-      "compressedBytes": 4980564,
-      "sha256": "c68fa1f167a5ed9f0a19c79af35ede9b057c81a6fc1bc08b25b3cd7f0c081e4f"
+      "recordCount": 12433,
+      "uncompressedBytes": 3488206,
+      "compressedBytes": 369401,
+      "sha256": "b21d224bfd0baa0eec1e1b9025f06d003554fc5ec6d3311c290ef56096b71e5f"
     },
     {
-      "id": "sentences/es-tier2-001",
-      "path": "sentences/es-tier2-001.jsonl.gz",
+      "id": "words/es-tier2-001",
+      "path": "words/es-tier2-001.jsonl.gz",
       "language": "es",
-      "kind": "sentences",
+      "kind": "words",
       "tier": 2,
       "difficulty": [
         3,
         3
       ],
-      "recordCount": 44269,
-      "uncompressedBytes": 18090090,
-      "compressedBytes": 4652831,
-      "sha256": "0e5eb8885e7460dcec29422f6c570cf96342467f7929ab7ad2dae0bd5e9bea97"
+      "recordCount": 14369,
+      "uncompressedBytes": 4040729,
+      "compressedBytes": 418878,
+      "sha256": "52b91609a74b5bafe135e3c2261ea95e6fe856921259e1cdefb244e8da901b42"
     },
     {
-      "id": "sentences/es-tier3-001",
-      "path": "sentences/es-tier3-001.jsonl.gz",
+      "id": "words/es-tier3-001",
+      "path": "words/es-tier3-001.jsonl.gz",
       "language": "es",
-      "kind": "sentences",
+      "kind": "words",
       "tier": 3,
       "difficulty": [
         4,
         5
       ],
-      "recordCount": 8197,
-      "uncompressedBytes": 2885705,
-      "compressedBytes": 663049,
-      "sha256": "16dfdbf7df424aa789fa16d23bf74d703836667cacac937fa2ab53fa028b1cf9"
+      "recordCount": 82983,
+      "uncompressedBytes": 25120340,
+      "compressedBytes": 3085774,
+      "sha256": "8894328ff6a13fa8afc63bdf147cf7c464ea301c974de841f7fdec4268aa0621"
     },
     {
-      "id": "sentences/ja-tier1-001",
-      "path": "sentences/ja-tier1-001.jsonl.gz",
+      "id": "words/ja-tier1-001",
+      "path": "words/ja-tier1-001.jsonl.gz",
       "language": "ja",
-      "kind": "sentences",
+      "kind": "words",
       "tier": 1,
       "difficulty": [
         1,
         2
       ],
-      "recordCount": 87990,
-      "uncompressedBytes": 41942836,
-      "compressedBytes": 11567554,
-      "sha256": "f1004ef5555b9e095fe9a2f48a1f64bfe146c4edcf2a5d1f88355da87ef5f0d3"
+      "recordCount": 148979,
+      "uncompressedBytes": 41942942,
+      "compressedBytes": 5455523,
+      "sha256": "bcef3262d531f33f21213968f552fddb5a839c9b1d9d5cb4735c305749939736"
     },
     {
-      "id": "sentences/ja-tier1-002",
-      "path": "sentences/ja-tier1-002.jsonl.gz",
+      "id": "words/ja-tier1-002",
+      "path": "words/ja-tier1-002.jsonl.gz",
       "language": "ja",
-      "kind": "sentences",
+      "kind": "words",
       "tier": 1,
       "difficulty": [
         1,
         2
       ],
-      "recordCount": 63722,
-      "uncompressedBytes": 30415781,
-      "compressedBytes": 8561284,
-      "sha256": "d675ebdafbd5407c1cae6b959f46615b16495aa63bcb7aa6fb337cc017169619"
+      "recordCount": 83464,
+      "uncompressedBytes": 23273266,
+      "compressedBytes": 2964532,
+      "sha256": "cbf7b8729bff6ddee19be4635c42945048dd6549969eb57e4a0cb90fb6e37c5c"
     },
     {
-      "id": "sentences/ja-tier1-003",
-      "path": "sentences/ja-tier1-003.jsonl.gz",
+      "id": "words/ja-tier2-001",
+      "path": "words/ja-tier2-001.jsonl.gz",
       "language": "ja",
-      "kind": "sentences",
-      "tier": 1,
-      "difficulty": [
-        1,
-        2
-      ],
-      "recordCount": 55897,
-      "uncompressedBytes": 25357722,
-      "compressedBytes": 6880376,
-      "sha256": "9b3d7326877e354f58bd712964322c846daa8d2305e4ae2a1f0cf13337a542a2"
-    },
-    {
-      "id": "sentences/ja-tier2-001",
-      "path": "sentences/ja-tier2-001.jsonl.gz",
-      "language": "ja",
-      "kind": "sentences",
+      "kind": "words",
       "tier": 2,
       "difficulty": [
         3,
         3
       ],
-      "recordCount": 60,
-      "uncompressedBytes": 19077,
-      "compressedBytes": 4498,
-      "sha256": "1a11e93906a7474dc37df59334b670a6fd1c2751098735cc48481cfc3d8e52a5"
+      "recordCount": 69253,
+      "uncompressedBytes": 18952229,
+      "compressedBytes": 2145851,
+      "sha256": "d899dd5318173a5e31248b5f934d214d29701bb653afc59cce7f265aea23b434"
     },
     {
-      "id": "sentences/ja-tier3-001",
-      "path": "sentences/ja-tier3-001.jsonl.gz",
+      "id": "words/ja-tier3-001",
+      "path": "words/ja-tier3-001.jsonl.gz",
       "language": "ja",
-      "kind": "sentences",
+      "kind": "words",
       "tier": 3,
       "difficulty": [
         4,
         5
       ],
-      "recordCount": 4,
-      "uncompressedBytes": 1058,
-      "compressedBytes": 395,
-      "sha256": "ec0bde14e10333c83cf5cea9d06066ddd5f58da9609e1e99f7b93ce9aa2cedae"
+      "recordCount": 106356,
+      "uncompressedBytes": 31202464,
+      "compressedBytes": 4342848,
+      "sha256": "ed59c745b511befc433e6c9a35b93b9869b5df28b3b4da90e524d797fd0a4732"
+    },
+    {
+      "id": "words/zh-tier1-001",
+      "path": "words/zh-tier1-001.jsonl.gz",
+      "language": "zh",
+      "kind": "words",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 89194,
+      "uncompressedBytes": 25720466,
+      "compressedBytes": 3623093,
+      "sha256": "6818bc49b4590cbc9d93bd106dd2e65f33babc2397291fddc49bb5a34cae8674"
+    },
+    {
+      "id": "words/zh-tier2-001",
+      "path": "words/zh-tier2-001.jsonl.gz",
+      "language": "zh",
+      "kind": "words",
+      "tier": 2,
+      "difficulty": [
+        3,
+        3
+      ],
+      "recordCount": 18317,
+      "uncompressedBytes": 5175603,
+      "compressedBytes": 682601,
+      "sha256": "d90a43ad3846edc6fe6199bfef20b4ebc39090982819c8433393e48d3a74ed74"
+    },
+    {
+      "id": "words/zh-tier3-001",
+      "path": "words/zh-tier3-001.jsonl.gz",
+      "language": "zh",
+      "kind": "words",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 98558,
+      "uncompressedBytes": 33480384,
+      "compressedBytes": 6878207,
+      "sha256": "2b95a02cb5071fe9252908539bbc963efbe2130c4dd74a50b3bc49bda0adce4a"
     },
     {
       "id": "sentences/ko-tier1-001",
@@ -556,10 +331,10 @@
         1,
         2
       ],
-      "recordCount": 5009,
-      "uncompressedBytes": 1859473,
-      "compressedBytes": 291007,
-      "sha256": "19a13345641b060120df65d32898429469ab7cbd7f7e2b990be772e597a27840"
+      "recordCount": 13211,
+      "uncompressedBytes": 4596105,
+      "compressedBytes": 592125,
+      "sha256": "d80e488a87575480e1b853710461284d4464cbdefe1fa80c647171ff13f342cc"
     },
     {
       "id": "sentences/ko-tier2-001",
@@ -571,10 +346,10 @@
         3,
         3
       ],
-      "recordCount": 26287,
-      "uncompressedBytes": 11669315,
-      "compressedBytes": 2295340,
-      "sha256": "3768ce4b57a92c632f59b14d739370b572cd658ce60513b275654d46084969ed"
+      "recordCount": 30487,
+      "uncompressedBytes": 13234706,
+      "compressedBytes": 2502162,
+      "sha256": "42ac8fb6246a60e9881abaa84cbca694bf91eb15c490203c8fcb2544f46aa72b"
     },
     {
       "id": "sentences/ko-tier3-001",
@@ -586,10 +361,10 @@
         4,
         5
       ],
-      "recordCount": 82538,
-      "uncompressedBytes": 41942972,
-      "compressedBytes": 9346718,
-      "sha256": "af7c48c5490e87007ccca1d9d0400089ab650490d503a7c8eab0d4af51b4a3f9"
+      "recordCount": 82038,
+      "uncompressedBytes": 41942685,
+      "compressedBytes": 9413112,
+      "sha256": "e9ecf069d83478507536e38ac1ec8ff16b628ef007a983282c39b64d41f10f5b"
     },
     {
       "id": "sentences/ko-tier3-002",
@@ -601,10 +376,10 @@
         4,
         5
       ],
-      "recordCount": 80755,
-      "uncompressedBytes": 41942854,
-      "compressedBytes": 9582051,
-      "sha256": "7753a5b195a8cb1d5237c8fd2fde284a04ed90a41d8639143e296894620c28e3"
+      "recordCount": 80695,
+      "uncompressedBytes": 41943001,
+      "compressedBytes": 9563935,
+      "sha256": "7d14c31945833d38698f72f706ec80837d6b9e6c725fb5689639b1d53e828750"
     },
     {
       "id": "sentences/ko-tier3-003",
@@ -616,10 +391,295 @@
         4,
         5
       ],
-      "recordCount": 14342,
-      "uncompressedBytes": 7267270,
-      "compressedBytes": 1644281,
-      "sha256": "00d2a1f6a20ba7765da61d03070c3a01f9a7d16bae5e17239ab1433a04b8aa83"
+      "recordCount": 13310,
+      "uncompressedBytes": 6648935,
+      "compressedBytes": 1476274,
+      "sha256": "b0671cb19f88c8d61c4bcb8d94ab670711681d293bc53374b4cdb2d6f637a8fe"
+    },
+    {
+      "id": "sentences/en-tier1-001",
+      "path": "sentences/en-tier1-001.jsonl.gz",
+      "language": "en",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 80499,
+      "uncompressedBytes": 41942875,
+      "compressedBytes": 9301714,
+      "sha256": "9404f932b388508e7b02b97883cd2a72030b47ae774f12478fa51eaf55096f4e"
+    },
+    {
+      "id": "sentences/en-tier1-002",
+      "path": "sentences/en-tier1-002.jsonl.gz",
+      "language": "en",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 80904,
+      "uncompressedBytes": 41942648,
+      "compressedBytes": 9317359,
+      "sha256": "bb99724fff50b1d2372ba0433b4d7600a397321d30481706e087c2372c61b077"
+    },
+    {
+      "id": "sentences/en-tier1-003",
+      "path": "sentences/en-tier1-003.jsonl.gz",
+      "language": "en",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 85018,
+      "uncompressedBytes": 41942406,
+      "compressedBytes": 8058235,
+      "sha256": "08b54b961fd440509d63ef40f33115ec4e5d1c6fc4aaafd6e8ed05575a4c237c"
+    },
+    {
+      "id": "sentences/en-tier1-004",
+      "path": "sentences/en-tier1-004.jsonl.gz",
+      "language": "en",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 36130,
+      "uncompressedBytes": 17962449,
+      "compressedBytes": 3419529,
+      "sha256": "d479faec71f04a19388c0e8a6518f1857a60f7c590b5e6fcdab9710e8e946f7e"
+    },
+    {
+      "id": "sentences/en-tier2-001",
+      "path": "sentences/en-tier2-001.jsonl.gz",
+      "language": "en",
+      "kind": "sentences",
+      "tier": 2,
+      "difficulty": [
+        3,
+        3
+      ],
+      "recordCount": 73599,
+      "uncompressedBytes": 41943026,
+      "compressedBytes": 10204820,
+      "sha256": "fdff0cf030a60c13cee96b5cc636b877f2fa61eafc1c54ce65f8c35b57af5242"
+    },
+    {
+      "id": "sentences/en-tier2-002",
+      "path": "sentences/en-tier2-002.jsonl.gz",
+      "language": "en",
+      "kind": "sentences",
+      "tier": 2,
+      "difficulty": [
+        3,
+        3
+      ],
+      "recordCount": 75416,
+      "uncompressedBytes": 40364962,
+      "compressedBytes": 9314589,
+      "sha256": "d8ab82b3cb52dc50a66f125d71f07364d800b7fa8030f6d2b0ada64f9b215c2c"
+    },
+    {
+      "id": "sentences/en-tier3-001",
+      "path": "sentences/en-tier3-001.jsonl.gz",
+      "language": "en",
+      "kind": "sentences",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 45914,
+      "uncompressedBytes": 21716852,
+      "compressedBytes": 4833829,
+      "sha256": "8c6e543fb8bd438b901653e68a5dd9e86e3b77a6d71cd0b6813b198f5e4cd8cc"
+    },
+    {
+      "id": "sentences/es-tier1-001",
+      "path": "sentences/es-tier1-001.jsonl.gz",
+      "language": "es",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 53814,
+      "uncompressedBytes": 25163106,
+      "compressedBytes": 6849931,
+      "sha256": "b93752072ffa85618b852907ee9989e16f3f5e9b9a2faf2d06a838b4e2eb4230"
+    },
+    {
+      "id": "sentences/es-tier2-001",
+      "path": "sentences/es-tier2-001.jsonl.gz",
+      "language": "es",
+      "kind": "sentences",
+      "tier": 2,
+      "difficulty": [
+        3,
+        3
+      ],
+      "recordCount": 52522,
+      "uncompressedBytes": 24380353,
+      "compressedBytes": 6727435,
+      "sha256": "ae912527325b1ff059a63eefe5dbc18c1bd0e86b3f0c9998c06bcc1a11483cb4"
+    },
+    {
+      "id": "sentences/es-tier3-001",
+      "path": "sentences/es-tier3-001.jsonl.gz",
+      "language": "es",
+      "kind": "sentences",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 12481,
+      "uncompressedBytes": 5018245,
+      "compressedBytes": 1177533,
+      "sha256": "c9d6a4c0e78c431e108361f216ee352e6eb497a0147808dae56a06635d59183b"
+    },
+    {
+      "id": "sentences/ja-tier1-001",
+      "path": "sentences/ja-tier1-001.jsonl.gz",
+      "language": "ja",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 74866,
+      "uncompressedBytes": 41942849,
+      "compressedBytes": 13708883,
+      "sha256": "3d2a74645757a2958399988d7896117c7c4d188407eeec910523a87246269ddf"
+    },
+    {
+      "id": "sentences/ja-tier1-002",
+      "path": "sentences/ja-tier1-002.jsonl.gz",
+      "language": "ja",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 74279,
+      "uncompressedBytes": 41942920,
+      "compressedBytes": 13992486,
+      "sha256": "2a27b662eeac3757dfaa705eb6322297c08c499d3125c4d55947b28f95a7c613"
+    },
+    {
+      "id": "sentences/ja-tier1-003",
+      "path": "sentences/ja-tier1-003.jsonl.gz",
+      "language": "ja",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 57676,
+      "uncompressedBytes": 29372280,
+      "compressedBytes": 9139918,
+      "sha256": "cd4f25446d8be689633435d74f59d76d53789a8da0cb78169b851e5bd36c6631"
+    },
+    {
+      "id": "sentences/ja-tier2-001",
+      "path": "sentences/ja-tier2-001.jsonl.gz",
+      "language": "ja",
+      "kind": "sentences",
+      "tier": 2,
+      "difficulty": [
+        3,
+        3
+      ],
+      "recordCount": 3447,
+      "uncompressedBytes": 1298621,
+      "compressedBytes": 243947,
+      "sha256": "02fa9986ef02741c6d0e0ec13a2fadf4e5363f3f7596cf0bf42b02dea3adaa23"
+    },
+    {
+      "id": "sentences/ja-tier3-001",
+      "path": "sentences/ja-tier3-001.jsonl.gz",
+      "language": "ja",
+      "kind": "sentences",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 1094,
+      "uncompressedBytes": 442070,
+      "compressedBytes": 94102,
+      "sha256": "a4bd9f7cebde024b8981100ded8c3d21264fdf6d5937fd338d2bcc6c6de5b086"
+    },
+    {
+      "id": "sentences/zh-tier1-001",
+      "path": "sentences/zh-tier1-001.jsonl.gz",
+      "language": "zh",
+      "kind": "sentences",
+      "tier": 1,
+      "difficulty": [
+        1,
+        2
+      ],
+      "recordCount": 70748,
+      "uncompressedBytes": 32387844,
+      "compressedBytes": 9517032,
+      "sha256": "471a2785b2111182c292ebf76e5309322562a1da6f6ee908fe443220df963138"
+    },
+    {
+      "id": "sentences/zh-tier2-001",
+      "path": "sentences/zh-tier2-001.jsonl.gz",
+      "language": "zh",
+      "kind": "sentences",
+      "tier": 2,
+      "difficulty": [
+        3,
+        3
+      ],
+      "recordCount": 25670,
+      "uncompressedBytes": 12617548,
+      "compressedBytes": 3372851,
+      "sha256": "3392783386962c8833656e4ad065be2937c9ea943390f5929e17527fa0cc7083"
+    },
+    {
+      "id": "sentences/zh-tier3-001",
+      "path": "sentences/zh-tier3-001.jsonl.gz",
+      "language": "zh",
+      "kind": "sentences",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 53909,
+      "uncompressedBytes": 41942574,
+      "compressedBytes": 14641606,
+      "sha256": "5600d63eb92fb5b890c1a7287798c2abfdedf66a110904ebbd39a4c841dfdd63"
+    },
+    {
+      "id": "sentences/zh-tier3-002",
+      "path": "sentences/zh-tier3-002.jsonl.gz",
+      "language": "zh",
+      "kind": "sentences",
+      "tier": 3,
+      "difficulty": [
+        4,
+        5
+      ],
+      "recordCount": 35757,
+      "uncompressedBytes": 26297899,
+      "compressedBytes": 9091849,
+      "sha256": "c423a431281ebbeb3985ec994095987aa707bc09c36918b2be292d4f0096f80e"
     }
   ]
 }
